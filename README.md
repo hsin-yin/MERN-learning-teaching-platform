@@ -4,6 +4,8 @@ This project allows teachers to create courses and students to register for them
 
 ## Introduction
 
+![course platform](./MERNprojectImg.png)
+
 This MERN (MongoDB, Express.js, React.js, Node.js) project serves as a course platform where teachers can create, manage, and conduct courses, while students can easily register for the courses.
 
 ## Demo
