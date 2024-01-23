@@ -2,7 +2,7 @@
 
 This project allows teachers to create courses and students to register for them.
 
-## Introduction
+## Description
 
 ![course platform](./MERNprojectImg.png)
 
